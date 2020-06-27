@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "hasura-expo-todo",
     "name": "hasura-expo-todo",
     "slug": "hasura-expo-todo",
     "platforms": [
